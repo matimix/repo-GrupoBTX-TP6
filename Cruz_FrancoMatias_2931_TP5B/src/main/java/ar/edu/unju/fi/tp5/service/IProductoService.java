@@ -1,7 +1,9 @@
 package ar.edu.unju.fi.tp5.service;
 import java.util.List;
 
-import ar.edu.unju.fi.tp4.model.Producto;
+import ar.edu.unju.fi.tp5.model.Producto;
+
+
 
 public interface IProductoService {
 

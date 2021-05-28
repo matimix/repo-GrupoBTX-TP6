@@ -7,9 +7,11 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.springframework.stereotype.Service;
 
-import ar.edu.unju.fi.tp4.model.Cliente;
-import ar.edu.unju.fi.tp4.service.IClienteService;
-import ar.edu.unju.fi.tp4.util.TablaCliente;
+import ar.edu.unju.fi.tp5.model.Cliente;
+import ar.edu.unju.fi.tp5.service.IClienteService;
+import ar.edu.unju.fi.tp5.util.TablaCliente;
+
+
 
 
 
