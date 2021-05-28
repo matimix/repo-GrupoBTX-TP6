@@ -8,10 +8,11 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import ar.edu.unju.fi.tp4.model.Compra;
-import ar.edu.unju.fi.tp4.model.Producto;
-import ar.edu.unju.fi.tp4.service.ICompraService;
-import ar.edu.unju.fi.tp4.service.IProductoService;
+import ar.edu.unju.fi.tp5.model.Compra;
+import ar.edu.unju.fi.tp5.service.ICompraService;
+import ar.edu.unju.fi.tp5.service.IProductoService;
+
+
 
 
 @Controller
